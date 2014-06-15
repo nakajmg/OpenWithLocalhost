@@ -1,0 +1,4 @@
+OpenWithLocalhost
+=================
+
+Alfred workflow.
